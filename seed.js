@@ -50,11 +50,7 @@ const dataInsert = async() =>{
         startingFrom: 4999,
       },
 
-      {
-        name : "HYDERABAD",
-        image:'https://i.pinimg.com/736x/69/62/da/6962da827ff3bb9df1aa9b64edbc7ea4.jpg',
-         startingFrom: 4999
-      }
+      
     ]
 
 
